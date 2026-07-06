@@ -136,10 +136,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Create an interactive web application
 - Improve feature engineering
 
----
 
-
-
----
-
-⭐ If you found this project useful, consider giving it a star!
